@@ -1,0 +1,24 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathan-obace/cypress-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan-obace/cypress-example/issues"
+  },
+  "homepage": "https://github.com/nathan-obace/cypress-example#readme",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "prettier": "^2.8.7"
+  }
+}
